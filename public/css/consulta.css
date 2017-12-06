@@ -1,0 +1,30 @@
+
+
+
+#w{
+     background-color: rgba(12, 12, 12, 0.65);
+
+width:400px;
+height: 200px;
+left: 50%;
+margin: -130px 0 0 -210px;
+padding:10px;
+position: absolute;
+top: 40%;
+
+color: rgba(0, 15, 0, 0)
+}
+
+
+
+#btna{
+      margin-bottom: 20mm;
+      margin-top: 1cm;
+      float: left;
+      left: 50%;
+      width: 40%;
+     font-size: inherit;
+
+
+ }
+
